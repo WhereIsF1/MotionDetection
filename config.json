@@ -1,0 +1,32 @@
+{
+  // Pfad zur Sounddatei, die abgespielt werden soll
+  "sound_path": "/home/pi/Skripte/Prg_Wilkommen_Caiptain/WelcomeAboardCaptain.mp3",
+  
+  // Parameter für den Hintergrundsubtraktor
+  "bg_subtractor_params": {
+    // Anzahl der historischen Frames für den Hintergrundsubtraktor
+    "history": 500,
+    // Schwellenwert für den Hintergrundsubtraktor
+    "varThreshold": 100,
+    // Schatten in der Bewegungserkennung erkennen (true) oder nicht (false)
+    "detectShadows": false
+  },
+  
+  // Minimale Konturfläche, um als Bewegung erkannt zu werden
+  "min_contour_area": 80,
+  
+  // Minimale Bewegungsgeschwindigkeit für starke Bewegung in Konturen
+  "min_motion_speed": 150,
+  
+  // Anzahl der aufeinanderfolgenden Bewegungserkennungen für die Tonausgabe
+  "threshold": 25,
+  
+  // Cooldown-Zeit in Sekunden zwischen aufeinanderfolgenden Tonausgaben
+  "sound_cooldown": 60,
+  
+  // Stunde, zu der die Bewegungserkennung starten soll
+  "start_hour": 11,
+  
+  // Stunde, zu der die Bewegungserkennung enden soll
+  "end_hour": 13
+}
