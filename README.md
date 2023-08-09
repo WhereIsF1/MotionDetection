@@ -11,7 +11,7 @@ Dieses Python-Skript erkennt Bewegungen in Echtzeit mithilfe einer Webcam und gi
 - Prüft, ob die Bewegungserkennung nur während eines bestimmten Zeitfensters erfolgen soll.
 
 
-Um eine tiefere Einsicht, sowie ausführliche Erklärungen zu erhalten, navigiere zum Abschnitt über die *Funktionen und Erklärungen*. Du findest diesen Abschnitt hier: *https://github.com/WhereIsF1/MotionDetection#funktionen-und-erkl%C3%A4rungen[Funktionen und Erklärungen]*
+Um eine tiefere Einsicht, sowie ausführliche Erklärungen zu erhalten, navigiere zum Abschnitt über die *Funktionen und Erklärungen*. Du findest diesen Abschnitt hier: *https://github.com/WhereIsF1/MotionDetection#funktionen-und-erkl%C3%A4rungen [Funktionen und Erklärungen]*
 
 ## Voraussetzungen
 
