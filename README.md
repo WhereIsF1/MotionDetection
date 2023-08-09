@@ -11,7 +11,7 @@ Dieses Python-Skript erkennt Bewegungen in Echtzeit mithilfe einer Webcam und gi
   * [Konfiguration](#konfiguration)
   * [Verwendung](#verwendung)
   * [Ablauf des Skripts](#ablauf-des-skripts)
-    + [Funktionen und Erklärungen](#funktionen-und-erklärungen)
+  * [Funktionen und Erklärungen](#funktionen-und-erklärungen)
   * [Hinweise](#hinweise)
   * [Lizenz](#lizenz)
 
