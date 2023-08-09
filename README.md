@@ -16,6 +16,7 @@ Dieses Python-Skript erkennt Bewegungen in Echtzeit mithilfe einer Webcam und gi
 - OpenCV-Bibliothek
 - Pygame-Bibliothek
 - Colorama-Bibliothek
+- commentjson-Bibliothek
 - Eine Webcam oder Kamera, die von OpenCV unterstützt wird
 
 ## Installation
