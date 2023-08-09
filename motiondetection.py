@@ -17,7 +17,7 @@ pygame.mixer.init()
 pygame.mixer.music.load(config["sound_path"])
 
 # Öffne die Kamera
-camera = cv2.VideoCapture(0)  # 0 steht für die Standardkamera, du kannst dies anpassen
+camera = cv2.VideoCapture(0)  # 0 steht für die Standardkamera,ist anpassbar
 
 # Initialisiere den Hintergrundsubtraktor mit angepassten Parametern
 bg_subtractor = cv2.createBackgroundSubtractorMOG2(
