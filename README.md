@@ -10,6 +10,9 @@ Dieses Python-Skript erkennt Bewegungen in Echtzeit mithilfe einer Webcam und gi
 - Berücksichtigt eine Cooldown-Zeit, um wiederholte Tonausgaben zu vermeiden.
 - Prüft, ob die Bewegungserkennung nur während eines bestimmten Zeitfensters erfolgen soll.
 
+
+Um eine tiefere Einsicht, sowie ausführliche Erklärungen zu erhalten, navigiere zum Abschnitt über die *Funktionen und Erklärungen*. Du findest diesen Abschnitt hier: *Funktionen und Erklärungen[https://github.com/WhereIsF1/MotionDetection#funktionen-und-erkl%C3%A4rungen]*
+
 ## Voraussetzungen
 
 - Python 3.x
@@ -65,10 +68,6 @@ python3 motiondetection.py
 6. Anzeigen des bearbeiteten Bildes und Status in der Konsole.
 7. Beenden der Schleife durch Drücken der 'q'-Taste.
 8. Aufräumen und Beenden des Skripts.
-
-## Bewegungserkennung mit Sound-Ausgabe
-
-Dieses Python-Skript erkennt Bewegungen durch die Kamera und gibt einen Sound aus, wenn bestimmte Bedingungen erfüllt sind.
 
 ### Funktionen und Erklärungen
 
