@@ -82,7 +82,7 @@ python3 motiondetection.py
 7. Beenden der Schleife durch Drücken der 'q'-Taste.
 8. Aufräumen und Beenden des Skripts.
 
-### Funktionen und Erklärungen
+## Funktionen und Erklärungen
 
 1. **Importieren der benötigten Bibliotheken**
    Hier werden die benötigten Bibliotheken für die Bewegungserkennung, die Zeitsteuerung, die Sound-Ausgabe, die Konfigurationsverarbeitung, Farbformatierung und Datums-/Uhrzeitmanipulation importiert.
